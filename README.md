@@ -1,58 +1,68 @@
-# 👋 Hi, I'm Nikhil Sarode
+# 👋 Hey there, I'm Nikhil Sarode
 
-🎓 MCS Graduate | 💻 Associate Software Developer @ Kneo Automation  
-📍 India | 📧 nikhilsarode2020@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/i-nikhilsarode) | 🧑‍💻 [GitHub](https://github.com/NPSarode)
-
----
-
-### 🚀 About Me
-
-I'm a passionate Front-End Developer with 2.6+ years of hands-on experience in building scalable and responsive Industry 4.0 web applications. I specialize in creating modern UI experiences using **React.js**, **Tailwind CSS**, and **micro frontend architectures**. I enjoy crafting intuitive user interfaces and working across the stack with **C#**, **.NET**, and **Docker** to bring seamless solutions to life.
+🎓 MCS Graduate | 💻 Full Stack Developer  
+📍 India | 📧 nikhilsarode2020@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/i-nikhilsarode) | 🧑‍💻 [GitHub](https://github.com/NPSarode)
 
 ---
 
-### 🧑‍💼 Current Role
+### ⚡ About Me
 
-**Associate Software Developer** @ Kneo Automation (July 2023 – Present)  
-- Built 5+ responsive web apps, handling 70% of front-end development.  
-- Leveraged React.js, Tailwind CSS, Shadcn UI, and charting libraries like D3 and Recharts.  
-- Implemented micro frontend and microservices architectures.  
-- Managed full project lifecycle: planning, dev, delivery, and client demos.  
-- Mentored teams and collaborated across front-end, back-end, and DevOps.  
-- Contributed to internal platform development to unify service architecture.
+I'm a **passionate front-end developer** with 2.6+ years of experience crafting scalable and intuitive web applications. I specialize in **React.js**, **Tailwind CSS**, and **Micro Frontend Architecture**, and I’m always eager to explore new technologies and contribute to meaningful projects.
 
-**Intern** @ Data Science Labs (July 2022 – July 2023)  
-- Created educational content, technical questions, and code samples in C, C++, Python, and JavaScript.  
-- Collaborated on content aligned with product design and user understanding.
+I thrive in cross-functional teams, enjoy mentoring, and love building tools that are beautiful, efficient, and user-centric.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 Tech Stack & Tools
 
-**Languages:** C, C++, Python, JavaScript, HTML, CSS, SASS, PHP  
-**Frameworks & Libraries:** React.js, Redux, Zustand, Express.js, Tailwind, React Native, Framer Motion, D3, Recharts, Reactstrap  
-**Tools & Platforms:** Docker, Git, GitHub, Postman, PostgreSQL, MySQL, Module Federation  
-**Architectures:** Microservices, Micro Frontends  
+#### 🖥️ Front-End
+- ⚛️ React.js, React Native
+- 🎨 Tailwind CSS, SASS, CSS3, HTML5
+- 🧩 Redux, Zustand, Reactstrap, Material UI, Shadcn UI
+- 📊 D3.js, Recharts
+- 🎞️ Framer Motion
+
+#### 🛠️ Back-End & DevOps
+- 🔧 C#, .NET, Node.js, Express.js
+- 🐳 Docker
+- 🧪 Postman
+- 🧵 Microservices & Micro Frontends (Module Federation)
+
+#### 💾 Databases
+- 🐘 PostgreSQL
+- 🐬 MySQL
+
+#### 🔧 Other Tools
+- 🗃️ Git & GitHub
+- 🌐 RESTful APIs
+- 📑 Project & Team Management
 
 ---
 
-### 💡 Interests
-
-- Web Design & Development  
-- DevOps & Scalable Architectures  
-- Project & Team Management  
-- Continuous Learning & Open Source
+### 🚀 What I Love Working On
+- ✨ Creating beautiful and accessible web interfaces
+- 🧱 Architecting scalable front-end systems
+- 🔁 Integrating services with clean, efficient APIs
+- 📈 Visualizing data with interactive and responsive charts
+- 👥 Collaborating across DevOps, backend, and design teams
 
 ---
 
-### 📫 Let's Connect!
+### 📌 Areas of Interest
+- 🎨 Web Design & UI/UX
+- 🧰 Full-Stack Development
+- ⚙️ DevOps & Automation
+- 👨‍💼 Project & Team Management
 
-If you're interested in collaborating on a project, hiring, or just want to chat tech, feel free to reach out!
+---
 
-📧 **nikhilsarode2020@gmail.com**  
+### 🌐 Let's Connect
+
+📫 **nikhilsarode2020@gmail.com**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/i-nikhilsarode)**  
-🧑‍💻 **[GitHub](https://github.com/NPSarode)**
+💻 **[GitHub](https://github.com/NPSarode)**  
 
 ---
 
-*Thanks for stopping by! ⭐️ Consider starring some of my repositories if they helped or inspired you.*
+⭐️ *Thanks for visiting! Feel free to explore my repositories and drop a star if you find something interesting!*
