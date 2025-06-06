@@ -2,7 +2,7 @@
 
 🎓 MCS Graduate | 💻 Full Stack Developer  
 📍 India | 📧 nikhilsarode2020@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/i-nikhilsarode) | 🧑‍💻 [GitHub](https://github.com/NPSarode)
+🔗 [LinkedIn](https://www.linkedin.com/in/i-nikhilsarode)
 
 ---
 
